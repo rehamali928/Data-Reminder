@@ -1,0 +1,39 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.color-body{
+ background-color: #f8f8f8;
+  height: 100vh;
+}
+.item1{
+  font-size: 30px;
+  color: gray;
+}
+.table{
+height: 600px;
+background-color: #ffffff;
+border-radius: 15px;
+box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+
+
+}
+.btn-style{
+  width: 150px;
+  
+  color: #fff;
+  border-radius: 8px;
+  background-color: #224f61;
+  transition: 0.3s;
+}
+.btn-style:hover{
+background-color: #627d88;
+border-radius: 20px;
+
+}
+.table-img{
+  width: 60px;
+  height: 60px;
+  border-radius: 20px;
+}
